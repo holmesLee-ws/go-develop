@@ -6,11 +6,11 @@
 
 ## 시작하기
 
-준비물은 Git과 Claude Code 또는 Claude Desktop입니다. 비공개 리포이므로 초대받은 GitHub 계정으로 클론합니다. 시작하는 데 다른 설치는 필요 없고, 실습에 언어 런타임이 필요해지면 튜터가 안내합니다.
+준비물은 Git, [GitHub CLI](https://cli.github.com)(`gh`), Claude Code 또는 Claude Desktop입니다. 비공개 리포이므로 먼저 GitHub에서 보낸 초대를 수락하고, 터미널에서 `gh auth login`으로 로그인합니다. 시작하는 데 다른 설치는 필요 없고, 실습에 언어 런타임이 필요해지면 튜터가 안내합니다.
 
 ```bash
 cd ~/Desktop
-git clone https://github.com/holmesLee-ws/go-develop.git
+gh repo clone holmesLee-ws/go-develop
 ```
 
 **Claude Code**
