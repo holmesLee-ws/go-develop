@@ -19,7 +19,8 @@
     "read": "unknown",
     "evidence": "",
     "action": "",
-    "at": null
+    "at": null,
+    "history": []
   },
   "preferences": []
 }
