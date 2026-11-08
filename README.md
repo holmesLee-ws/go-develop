@@ -20,7 +20,7 @@ cd ~/Desktop/go-develop
 claude
 ```
 
-폴더를 신뢰하겠냐고 물으면 수락합니다. 그래야 학습 기록 저장과 자료 조사를 튜터가 묻지 않고 진행합니다.
+처음 열면 이 폴더를 신뢰하는지 묻습니다. 기본 선택은 「No, exit」이므로 Enter만 누르면 종료됩니다. **아래 화살표로 「Yes, I trust this folder」를 고른 뒤 Enter**를 누르세요. 그래야 학습 기록 저장과 자료 조사를 튜터가 묻지 않고 진행합니다.
 
 **Claude Desktop**
 
