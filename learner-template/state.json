@@ -10,7 +10,8 @@
   },
   "current": {
     "module": null,
-    "path": null
+    "path": null,
+    "pending_probe": null
   },
   "modules": {},
   "gaps": [],
