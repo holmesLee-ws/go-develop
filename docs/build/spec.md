@@ -55,6 +55,6 @@
 GitHub 원격에서 새로 클론한 사본으로 아래를 본다.
 
 1. CLI: `claude`를 프로젝트 설정만으로 실행해 첫 메시지 「안녕」을 보낸다. 합격: 첫 질문이 나오고, 이어지는 진단 뒤 `learner/state.json`과 HTML이 생긴다.
-2. Desktop: Claude Desktop의 Code 탭에서 같은 클론을 열고 「안녕」을 보낸다. 합격: 코딩 도우미 응답이 아니라 튜터의 첫 질문이 나오고, 진단 뒤 `learner/state.json`과 HTML이 생기며, 채팅의 경로로 HTML이 열린다. Desktop을 조작할 수 없으면 **R3의 Desktop 절반은 미충족**으로 최종 보고 첫머리에 적고, 홍주님이 1분 안에 확인할 절차를 함께 준다.
+2. Desktop: Claude Desktop의 Code 탭에서 같은 클론을 열고 「안녕」을 보낸다. 합격: 코딩 도우미 응답이 아니라 튜터의 첫 질문이 나오고, 진단 뒤 `learner/state.json`과 HTML이 생기며, 채팅의 경로로 HTML이 열린다. Desktop을 조작할 수 없으면 **R3의 Desktop 절반은 미충족**으로 최종 보고 첫머리에 적고, 사람이 1분 안에 확인할 절차를 함께 준다.
 
 R1의 원격 재현은 GitHub에서 새로 클론한 사본에서 첫 메시지 → 질문 → 진단 → `state.json` 생성 → HTML 생성까지 확인하는 것으로 정한다.
